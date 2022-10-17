@@ -1,5 +1,5 @@
-const stringLength = require('./script')
+// const stringLength = require('./script')
 
-test('returns character count', ()=> {
-    expect(stringLength("shp")).toBe(3)
-})
+// test('returns character count', ()=> {
+//     expect(stringLength("shp")).toBe(3)
+// })
